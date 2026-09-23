@@ -1,0 +1,18 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# Local model/training outputs
+runs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
